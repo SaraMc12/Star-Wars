@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/SaraMc12/Star-Wars/issues"
   },
-  "homepage": "https://github.com/SaraMc12/Star-Wars#readme"
+  "homepage": "https://github.com/SaraMc12/Star-Wars#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
