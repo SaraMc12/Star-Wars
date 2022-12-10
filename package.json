@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/SaraMc12/Star-Wars#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   }
 }
